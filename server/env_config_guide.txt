@@ -1,0 +1,6 @@
+PORT = port number
+MONGO_URI = mongoDB database link
+JWT_SECRET = jwt secret key
+
+// do not change this one
+NODE_ENV = production
